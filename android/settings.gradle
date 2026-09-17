@@ -1,0 +1,2 @@
+rootProject.name = "ProverbsWidget"
+include ':app'

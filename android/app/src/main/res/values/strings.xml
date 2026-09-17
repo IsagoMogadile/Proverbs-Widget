@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proverbs</string>
+    <string name="widget_description">Shows a random verse from Proverbs. Tap the refresh icon for a new one; it also refreshes automatically once a day.</string>
+    <string name="widget_title">PROVERB OF THE DAY</string>
+</resources>

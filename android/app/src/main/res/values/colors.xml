@@ -1,0 +1,8 @@
+<resources>
+    <color name="ic_launcher_background">#1B1B24</color>
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="glass_fill">#402A2A3C</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_gold">#FFE4C77A</color>
+    <color name="text_muted">#FFC9C9D6</color>
+</resources>
